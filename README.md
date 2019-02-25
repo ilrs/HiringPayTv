@@ -8,9 +8,9 @@ Bibliotecas necessárias:
 - Gtest
 
 # Passos para compilação:
-cmake .
-make
+- cmake .
+- make
 
 # Arquivos executáveis:
-HiringPaytv - Programa solicitado pelo processo seletivo.
-TestCase - Caso de teste.
+- HiringPaytv - Programa solicitado pelo processo seletivo.
+- TestCase - Caso de teste.
